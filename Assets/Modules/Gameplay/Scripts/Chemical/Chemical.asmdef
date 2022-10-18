@@ -1,0 +1,20 @@
+{
+    "name": "Chemical",
+    "rootNamespace": "Gameplay.Chemical",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:30edbd66d589e5e46a131fcfee3bba9a",
+        "GUID:61ca3a9ed33f2a5489560dd2df96da4d",
+        "GUID:7581c2ac0b7088445a91122ce9398aa8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
